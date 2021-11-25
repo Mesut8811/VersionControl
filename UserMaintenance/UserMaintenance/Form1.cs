@@ -47,7 +47,7 @@ namespace UserMaintenance
             using (StreamWriter sw = new StreamWriter(sfd.FileName))
                 {
 
-                    foreach (var item in users)
+                    foreach (User item in users)
                     {
                         sw.WriteLine(item.ID + ";" + item.FullName);
                     }
