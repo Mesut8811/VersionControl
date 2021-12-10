@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestExample", "UnitTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestExample.Test", "UnitTestExample.Test\UnitTestExample.Test.csproj", "{0A57CB7D-B213-4F5C-A7A6-B6B1753C7E60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroSzimulacio", "MikroSzimulacio\MikroSzimulacio.csproj", "{6050ABA5-EB8B-4A5C-AE22-584406214667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A57CB7D-B213-4F5C-A7A6-B6B1753C7E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A57CB7D-B213-4F5C-A7A6-B6B1753C7E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A57CB7D-B213-4F5C-A7A6-B6B1753C7E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6050ABA5-EB8B-4A5C-AE22-584406214667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6050ABA5-EB8B-4A5C-AE22-584406214667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6050ABA5-EB8B-4A5C-AE22-584406214667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6050ABA5-EB8B-4A5C-AE22-584406214667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
