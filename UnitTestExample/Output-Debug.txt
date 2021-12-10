@@ -1,0 +1,30 @@
+﻿'MikroSzimulacio.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\danie\source\repos\VersionControl\UnitTestExample\MikroSzimulacio\bin\Debug\MikroSzimulacio.exe'. Symbols loaded.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Év: 2005 Férfiak: 23319 Nők 25926
+Év: 2006 Férfiak: 23527 Nők 26184
+Év: 2007 Férfiak: 23751 Nők 26418
+Év: 2008 Férfiak: 24010 Nők 26658
+Év: 2009 Férfiak: 24245 Nők 26901
+Év: 2010 Férfiak: 24470 Nők 27131
+Év: 2011 Férfiak: 24700 Nők 27375
+Év: 2012 Férfiak: 24952 Nők 27602
+Év: 2013 Férfiak: 25146 Nők 27802
+Év: 2014 Férfiak: 25341 Nők 28027
+Év: 2015 Férfiak: 25552 Nők 28217
+Év: 2016 Férfiak: 25747 Nők 28413
+Év: 2017 Férfiak: 25939 Nők 28610
+Év: 2018 Férfiak: 26123 Nők 28799
+Év: 2019 Férfiak: 26310 Nők 28997
+Év: 2020 Férfiak: 26526 Nők 29199
+Év: 2021 Férfiak: 26743 Nők 29398
+Év: 2022 Férfiak: 26915 Nők 29586
+Év: 2023 Férfiak: 27099 Nők 29759
+Év: 2024 Férfiak: 27273 Nők 29934
+'MikroSzimulacio.exe' (CLR v4.0.30319: MikroSzimulacio.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_hu_b77a5c561934e089\mscorlib.resources.dll'. Module was built without symbols.
+The program '[13288] MikroSzimulacio.exe' has exited with code 0 (0x0).

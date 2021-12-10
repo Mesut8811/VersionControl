@@ -66,7 +66,8 @@ namespace MikroSzimulacio
             int counter = 0;
             for (int year = 2005; year <= zaroev; year++)
             {
-                richTextBox1.Text += string.Format("Szimulációs év: {0} \n\tFérfiak: {1} \n\tNők:{2}", year, ferfiak[counter], nok[counter]);
+                richTextBox1.Text += string.Format("Szimulációs év: {0} \n\tFérfiak: {1} \n\tNők:{2}\n\t ", year, ferfiak[counter], nok[counter]);
+                counter++;
             
             
             }
@@ -96,7 +97,7 @@ namespace MikroSzimulacio
                     Person baba = new Person();
                     baba.BirthYear = year;
                     baba.NbrOfChildren = 0;
-                    baba.Gender = (Gender)rng.Next(1, 3);
+                    baba.Gender = (Gender)rng.Next(1, 3); 
                     Population.Add(baba);
 
                 }
@@ -145,6 +146,7 @@ namespace MikroSzimulacio
                         BirthProbabilities p = new BirthProbabilities();
                         p.Age = int.Parse(items[0]);                        
                         p.NbrOfChildren = int.Parse(items[1]);
+                        p.P = double.Parse(items[2]);                    
                         result.Add(p);
                     }
                 }
@@ -166,8 +168,9 @@ namespace MikroSzimulacio
                     string line = sr.ReadLine();
                     string[] items = line.Split(';');
                     DeathProbabilities p = new DeathProbabilities();
-                    p.Gender = (Gender)Enum.Parse(typeof(Gender), items[1]);
-                    p.Age = int.Parse(items[0]);
+                    p.Gender = (Gender)Enum.Parse(typeof(Gender), items[0]);
+                    p.Age = int.Parse(items[1]);                    
+                    p.P = double.Parse(items[2]);
                     result.Add(p);
                 }
             }
